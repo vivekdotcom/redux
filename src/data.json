@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "email":"ankit@gmail.com",
+         "mobile":9078654045
+    },
+    {
+        "id":2,
+        "email":"manish@gmail.com",
+         "mobile":9878654345
+    },
+    {
+        "id":3,
+        "email":"rohit@gmail.com",
+         "mobile":7870654345
+    },
+    {
+        "id":4,
+        "email":"rohan@gmail.com",
+         "mobile":8870652315
+    }
+]
